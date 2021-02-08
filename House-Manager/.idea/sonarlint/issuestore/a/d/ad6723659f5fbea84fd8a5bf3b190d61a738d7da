@@ -1,0 +1,6 @@
+
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(²Ëİê8åŞÇñö.
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(ë…âü8ëòòÊö.
+I
+java:S1144G",Remove this unused private "getName" method.(‚‰Ğ¯8‹–’òö.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ùàèü8“äñÊö.

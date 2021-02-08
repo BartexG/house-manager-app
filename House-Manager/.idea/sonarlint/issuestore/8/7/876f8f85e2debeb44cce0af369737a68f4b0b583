@@ -1,0 +1,55 @@
+
+–
+java:S1192"yDefine a constant instead of duplicating this literal "<h2 class='w3-text-green'>Oto wyniki wyszukiwaÅ„!</h2>\n" 3 times.(³—¨î8˜“¡¥ç.
+>
+java:S1643j"Use a StringBuilder instead.(ÌêÆãûÿÿÿÿ8óÄ‡´ò.
+>
+java:S1643+"Use a StringBuilder instead.(Í‡ôÍøÿÿÿÿ8¯²Ş’ç.
+h
+java:S1192µ"JDefine a constant instead of duplicating this literal "</form>\n" 3 times.(¯óŸ8óÄ‡´ò.
+>
+java:S1643&"Use a StringBuilder instead.(ÌêÆãûÿÿÿÿ8ÃÆ×’ç.
+h
+java:S11922"KDefine a constant instead of duplicating this literal "</table>\n" 3 times.(”µˆá8°ÉüŠç.
+?
+java:S1643‹"Use a StringBuilder instead.(Í‡ôÍøÿÿÿÿ8óÄ‡´ò.
+p
+java:S1192"NDefine a constant instead of duplicating this literal "<th>ID</th>\n" 3 times.(€ÀãÑüÿÿÿÿ8°ÉüŠç.
+>
+java:S1643m"Use a StringBuilder instead.(Í‡ôÍøÿÿÿÿ8óÄ‡´ò.
+g
+java:S1192"JDefine a constant instead of duplicating this literal "<p></p>\n" 7 times.(ê±§›8˜“¡¥ç.
+9
+java:S1643""Use a StringBuilder instead.(Íõìµ8ŒíœÊö.
+9
+java:S1643#"Use a StringBuilder instead.(ÇÍÂú8ÃÆ×’ç.
+k
+java:S1192+"IDefine a constant instead of duplicating this literal "</th>\n" 19 times.(Í‡ôÍøÿÿÿÿ8€™ƒ‡ç.
+y
+java:S1192"WDefine a constant instead of duplicating this literal "<th>Numer bloku</th>\n" 3 times.(€ÀãÑüÿÿÿÿ8Ëõ³’ç.
+d
+java:S1192"HDefine a constant instead of duplicating this literal "</tr>\n" 6 times.(ÀçÇ8‰çÚ‡ç.
+9
+java:S1643e"Use a StringBuilder instead.(Ş€Ìö8ŒíœÊö.
+>
+java:S1643f"Use a StringBuilder instead.(—ï¦øøÿÿÿÿ8óÄ‡´ò.
+z
+java:S1488™"\Immediately return this expression instead of assigning it to the temporary variable "html".(õ©ÙÜ8óÄ‡´ò.
+e
+java:S11922"HDefine a constant instead of duplicating this literal "</html>" 3 times.(”µˆá8°ÉüŠç.
+>
+java:S1643"Use a StringBuilder instead.(öÉÂ©ûÿÿÿÿ8Öİ¢‹ç.
+g
+java:S11922"JDefine a constant instead of duplicating this literal "</body>\n" 3 times.(”µˆá8°ÉüŠç.
+i
+java:S1192"GDefine a constant instead of duplicating this literal "<tr>\n" 6 times.(¿”ù˜ıÿÿÿÿ8°ÉüŠç.
+9
+java:S1643i"Use a StringBuilder instead.(§Ë—8ŒíœÊö.
+z
+java:S1488¢"\Immediately return this expression instead of assigning it to the temporary variable "html".(ú‹Äö8óÄ‡´ò.
+>
+java:S1643"Use a StringBuilder instead.(å¼Œ„ıÿÿÿÿ8¶Ó¢Œç.
+9
+java:S1643%"Use a StringBuilder instead.(§Ë—8ŒíœÊö.
+w
+java:S1192"UDefine a constant instead of duplicating this literal "<table id='table'>\n" 3 times.(¿”ù˜ıÿÿÿÿ8‰çÚ‡ç.

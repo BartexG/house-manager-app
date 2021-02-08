@@ -1,0 +1,9 @@
+
+Ž
+java:S1130+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ð±Úòþÿÿÿÿ8´ÊÃòö.
+D
+java:S1125-"(Remove the literal "true" boolean value.(Õèí$8¥«©òö.
+™
+java:S1130!"|Remove the declaration of thrown exception 'com.itextpdf.text.DocumentException', as it cannot be thrown from method's body.(£ç¤²8œ „òö.
+“
+java:S1130!"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(£ç¤²8œ „òö.
