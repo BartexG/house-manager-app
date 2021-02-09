@@ -13,7 +13,5 @@ tak naprawdę podanie numeru id jest ważne, ale dałem więcej okienek typu PIN
 formie, dlatego zrobiłem trochę po swojemu, z tym że zwracanie stringów z htmlem to nie jest chyba dobra paktyka, ale tak jak pisałem chciałem zrobić wszystko sam.
 No nie zdążyłem też i nie wiedziałem jak do końca zrobić podział na role i ograniczenia dostępu do Endpointów, dlatego tego nie uwzględniłem.
 Pozostałe założenia powinny być.
-Do interfejsu wziąłem template htmlowy, który i tak musiałem sporo naedytować i w jakimś stopniu z internetu korzystałem,
-też przy emailach i pdfach. A tak to wszystko sam pisałem i robiłem.
 
 Mam nadzieję, że wszystko działa i jest zgodne z założeniami Bartek Gładki
